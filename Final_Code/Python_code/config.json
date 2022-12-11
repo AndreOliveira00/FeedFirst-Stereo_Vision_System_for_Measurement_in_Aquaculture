@@ -1,0 +1,7 @@
+{
+  "calibration_files_directory": "./data/SAMPLE_3/calibration/",
+  "examples_directory": "./data/SAMPLE_3/examples/",
+  "square_size_mm": 40,
+  "pattern_rows": 6,
+  "pattern_columns": 8
+}

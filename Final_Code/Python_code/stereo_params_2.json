@@ -1,0 +1,1 @@
+{"numDisparities": 160, "blockSize": 2, "preFilterType": 1, "preFilterSize": -2, "preFilterCap": 223, "textureThreshold": 49, "uniquenessRatio": 153, "speckleRange": 193, "speckleWindowSize": 2, "disp12MaxDiff": 11, "minDisparity": 0, "lmbda": 142791, "sigma": 13}

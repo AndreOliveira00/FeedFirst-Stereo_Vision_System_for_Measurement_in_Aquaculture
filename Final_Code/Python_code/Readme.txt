@@ -1,0 +1,1 @@
+Ask the author for the stereoParams.mat file if needed
